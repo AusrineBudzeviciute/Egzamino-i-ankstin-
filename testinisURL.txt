@@ -1,0 +1,142 @@
+Vikipedija (angl. Wikipedia) – laisvoji interneto enciklopedija. Joje paskelbta daugiau nei 55 mln. straipsnių 306 kalbomis. 2020 m. Vikipediją kas mėnesį skirtingais įnagiais aplankė 1,5 mlrd. lankytojų bei peržiūrėjo 15 mlrd. puslapių.[3][4][5]
+
+Nemokamą enciklopediją įvairiomis kalbomis, skirtingai negu tradicines mokslininkų enciklopedijas, kuria jos lankytojai – interneto naudotojai, kuriuos vienija gera valia, sutarimas, naudojant wiki įrangą.[6] Svetainės pavadinimas kildinamas iš havajiečių kalbos žodžio „wiki“, reiškiančio „greitai“ bei graikiško žodžio paideia. Straipsniams kurti ir taisyti reikalinga tik interneto naršyklė.
+
+Nepriklausomo tyrimo duomenimis, redaktorius-savanorius labiausiai prisidėti prie šios veiklos skatina pati idėja, jog jie prisideda prie visuomenės lavinimo. Taip pat paaiškėjo, kad per pirmąjį dešimtmetį (2001–2010 m.) 80 % angliškosios Vikipedijos turinio sukūrė 1 % veikliausių redaktorių, tačiau šio 1 % sudėtis keisdavosi, įsiliedavo nauji redaktoriai pakeisdami nebeveiklius.[7]
+
+Vikipedijos projektas anglų kalba pradėtas 2001 m. sausio 15 d. kaip priedas ekspertų kuriamam „Nupedia“ projektui.[8] Vikipedijos administravimą koordinuoja ne pelno organizacija – Vikimedijos fondas („Wikimedia Foundation“), įsikūręs JAV. Vėliau buvo sukurti atitinkami projektai kitomis kalbomis, 2003 m. vasario 20 d. įsteigta lietuviškoji Vikipedija.
+
+2012 m. sausio 18 d. angliškoji Vikipedija laikinai apribojo prieigą, protestuojant prieš JAV autorinių teisių įstatymų pakeitimus.[9] 2018 m. liepos 3–5 d. ispaniškoji, itališkoji, latviškoji Vikipedija ir kt. tą patį padarė, protestuojant prieš ES autorinių teisių įstatymų pataisas.[10][11][12]
+
+Vikipedijos straipsniai saugomi 370 serverių, esančių JAV, Tampoje ir Ašburne bei ES, Amsterdame, Nyderlanduose. 2014 m. duomenimis, jų išlaikymas kas mėnesį atsiėjo apie 70 tūkst. JAV dolerių.[13] Vikipedija išlaikoma iš Vikipedijos skaitytojų bei įvairių bendrovių paaukotų lėšų. Tačiau pastarosios lėšos sudaro mažesnę dalį visų paaukotų lėšų sumos. Pavyzdžiui, „Google“ 2010 m. skyrė 2 mln. JAV dolerių. Vienas iš „Google“ įkūrėjų Sergey Brin tuo laikotarpiu apie Vikipediją atsiliepė teigiamai. Pasak jo, „tai neįkainojamas žinių lobynas“.[14] 2015–2016 m. daugiau kaip 5 mln. Vikipedijos lankytojų, labdaros fondai ir bendrovės iš viso paaukojo 77,7 mln. JAV dolerių.[15] „Google“, „Microsoft“, „Apple“, „PayPal“ ir kt. bendrovės bei labdaros fondai iš jų skyrė 9,5 mln. JAV dolerių.[16]
+
+
+2012 m. sausio 18 d. angliškoji Vikipedija laikinai apribojo prieigą protestuodama prieš JAV autorinių teisių pakeitimus.
+
+2014 m. buvo pastatyta statula Lenkijoje, Slubicių mieste, pagerbiant Vikipedijos bendruomenę.[17]
+Istorija
+Pagrindiniai Vikipedijos istorijos įvykiai yra šie:
+
+2000 m. – įkuriama Nupedija, projektas kuriame laisvai visiems prieinamą turinį rašo dalyko ekspertai. Nupediją finansuoja Bomis.
+2001 m. – kaip papildomas Nupedijos projektas įkuriama Vikipedia. Užregistruojami wikipedia.org ir wikipedia.com domenai. Pirmąkart apibrėžiamas neutralaus požiūrio reikalavimas. Pirmieji Vikipedijos paminėjimai žiniasklaidoje.
+2002 m. – baigiasi Bomio finansinė parama. Atskyla Enciclopedia Libre Universal en Español‎. Jimmy Wales paskelbia, jog Vikipedijoje niekada nebus reklamos. Pirmieji botai.
+2003 m. – patvirtinamas Vikipedijos logotipas. Pradeda veikti matematinių formulių palaikymo sistema TeX.
+2004 m. – bendras Vikipedijos projekto straipsnių skaičius peržengia 1 mln., Vikipedijos puslapiai pradeda naudoti CSS. Pirmieji tarptautiniai Vikipedijos blokavimai (Kinija).
+2005 m. – atsiranda galimybė nesunkiai pradėti Vikipedijos projektą nacionaline kalba. Pirmieji skandalai, kilę dėl vandalizmo biografijose.
+2006 m. – „Wikipedia“ tampa oficialiai registruotu Vikimedijos fondo prekiniu ženklu.
+2007 m. – atskyla ekspertų kuriami Citizendium, Scholarpedia projektai.
+2008 m. – bendras Vikipedijos projekto straipsnių skaičius peržengia 10 mln.
+2009 m. – Vikipedija pereina prie Creative Commons licenzijos.
+2010 m. – Vikipedija pirmąkart atnaujina vartotojo sąsąjos dizainą bei logotipą.
+Tikslai
+Vikipedijos siekis – struktūriškai ir sistemiškai pateikti žmonijos sukauptas žinias enciklopedijos forma. Kokiomis temomis rašoma ir kaip, sprendžiama Vikipedijos bendruomenėje – tarpusavio sutarimu. Siekiama, kad vien tik statistiniai duomenys ar šiaip įdomi medžiaga neturėtų būti beatodairiškai talpinami enciklopedijoje. Visa tai turi būti struktūrizuojama, pateikiant apibrėžimą, atskirus faktus siejant į vieningą visumą ir nurodant tarpusavio ryšius bei sąsajas, priklausomybes ir panašumus.
+
+Autorinės teisės ir licencija
+Enciklopedijos straipsniuose pateikta informacija yra laisvai prieinama. Ją galima ne tik skaityti, bet ir kopijuoti, platinti pagal vad. „Kūrybinių bendrijų“ (Creative Commons) licenciją. Pradinė Vikipedijos licenzija buvo FSF sukurta GNU GFDL. 2008 m Vikimedijos fondas susitarė su FSF kad šieji įdės į GFDL pataisą, leidžiančią pakeisti Vikipedijos licenziją į jų nuomonę patogesnę Creative Commons.[18]
+
+Vikipedija neturi apibrėžto autorių būrio, siekiama kuo daugiau žmonių įtraukti į bendrą darbą. Formaliai Vikipedijos turinys priklauso jį įkėlusiems naudotojams, tačiau pagal licenzijos salygas atsiimti jo atgal negalima. Visgi pats projektas kaipo toks (serveriai, interneto vardai, organizacinė struktūra ir pan.) priklauso Vikimedijos fondui.[19]. Nors šis fondas linkęs pasitikėti bendruomenės sprendimais, prireikus, sprendžiama ir prieš bendruomenės valią. Atskirų naudotojų ar jų grupių įtaka yra ribota, nesvarbu koks rimtas būtų jų praeities indėlis.
+
+Vikipedijos privalumai
+Kompaktiškumas
+Elektroninė enciklopedijos forma leidžia greitai surasti reikiamą informaciją, pereiti prie kitų temų straipsnių, perskaityti internetinėse nuorodose pateikiamą medžiagą, susijusią su straipsniu. Spausdintinėse enciklopedijose informacija pateikiama keliolikoje tomų, kurių sklaidymas ir vartymas nėra patogus.
+
+Forma
+
+DVD forma
+Elektroninė forma:
+Elektroninė forma leidžia greitai ieškoti reikiamos informacijos. Tačiau ne kiekvienoje elektroninėje enciklopedijoje pateikiama informacija gali būti greitai nukopijuota į tekstinę programą, kuria gali būti kuriamas naujas kūrinys (pavyzdžiui, informacijos, rastos el. enciklopedijoje, pagrindu).
+
+Vikipedijoje esančią medžiagą skaityti, jos ieškoti ir ją kopijuoti yra paprasta. Spausdintinės enciklopedijos medžiagą reikėtų skenuoti arba suvesti informaciją klaviatūra, kas užimtų daug laiko.
+
+Prisijungus prie interneto
+Šiuo metu Vikipedija greičiausiai prieinama internete (adresu http://lt.wikipedia.org). Vikipedija pastaruoju metu naudojamasi kone taip pat dažnai kaip ir populiariomis paieškos svetainėmis (kaip Google, Yahoo ir kitomis).
+
+Neprisijungus prie interneto
+Vikipediją įmanoma gauti taip pat ir DVD ar CD forma, ją galima nusikopijuoti kaip vientisą dokumentą arba išsisaugoti asmeniniame kompiuteryje.
+
+Spausdintinė versija
+Kadangi kompiuteriais (tuo labiau internetu) šiuo metu negali naudotis didžioji dalis Trečiojo pasaulio šalių gyventojų, Vikipediją planuojama spausdinti kaip tradicinę („popierinę“) enciklopediją.
+
+Atskiri Laisvosios enciklopedijos straipsnių rinkiniai platinami įvairiose šalyse (paprastai už simbolinę kainą). Visa Vikipedija ruošiama spausdinti kol kas tik vokiečių kalba (100 tomų). Ji bus išleista per 5 metus (2006–2010 metais).
+
+Plačiau apie Vikipedijos vokiečių k. leidimą skaitykite Vikinaujienose.
+
+Garsinė įrašų forma (Audiopedija)
+Ateityje bus siekiama sukurti tokią Atvirąją enciklopediją, kurioje esančią informaciją bus galima gauti įvairių jutimo organų pagalba. Vikipedija jau dabar neapsiriboja vien tik elektronine ar spausdintine forma. Jau kuriama ir Audiopedija – Atviroji enciklopedija, skirta nemokantiems (ar neturintiems laiko) skaityti, kuri taip pat prieinama neregiams arba silpnaregiams. Šiuo metu „audiopedizuojami“ pavyzdiniai bei rinktiniai straipsniai, kurie turėtų sulaukti ir didesnio plačiosios visuomenės dėmesio.
+
+Aktualumas
+Vikipedija yra viena aktualiausiai informaciją pateikiančių enciklopedinių leidinių. Joje svarbūs įvykiai ir aktualijos kartais aprašomos kone įvykio atsiradimo dieną (ar net valandą). Tai, pavyzdžiui, buvo 2005 m. pabaigoje, kai kone kas valandą (angliškoje Vikipedijoje) buvo atnaujinamos žinios apie potvynio JAV mastus ir aukas. Atvirojoje enciklopedijoje taip pat netrunkama pranešti apie asmenybių gyvenimo įvykius, vingius ar informuoti apie mirtį.
+
+Analogiškoje spausdintoje enciklopedijoje aktualūs pasaulinės reikšmės įvykiai lieka neišbaigti, neaprašyti dėl informacijos trūkumo. Taip pat dažnai neaišku, ar solidaus amžiaus sulaukę asmenys, minimi enciklopedijoje, dar gyvi. Elektroninėje – priešingai: niekada nevėlu atnaujinti informaciją. Ir tai daroma be didelių sąnaudų, kadangi nereikia naujai leisti visos enciklopedijos kaip yra spausdintinių enciklopedijų atvejais.
+
+Išsamumas ir teisingumas
+Vikipedijoje galima rasti ir klaidingų ar netgi sąmoningai tendencingų straipsnių. Tačiau klaidų pasitaiko ir profesionalų mokslininkų kuriamose enciklopedijose. Vikipedija savo straipsnių kokybe bei pateikiamos informacijos išsamumu sparčiai vejasi tradicines ir garsiausias pasaulio enciklopedijas. Tačiau pažymėtina, kad Laisvosios enciklopedijos projektas kuriamas tik nuo 2001 metų, todėl Vikipedija negali prilygti visišku joje pateikiamo turinio teisingumu, išsamumu ir detalumu analogiškiems spausdintiems leidiniams, nes ji nuolat kuriama, taisoma, redaguojama bei kitaip tobulinama.
+
+Apimtis
+Vikipedija savo apimtimi keleriopai lenkia analogiškas komercines enciklopedijas. Pavyzdžiui, angliška Vikipedija 2006 m. turėjo daugiau negu 1 140 000 straipsnių – 10 kartų daugiau negu Britanika.
+
+Nuorodos, sąsajos
+Greta straipsnyje minimų sąvokų, kurias pasiekti galima tiesiog paspaudus ant jų, Vikipedijoje pateikiami sąvokos aprašai, kontekstas bei priskiriama sąvoka tam tikrai kategorijai. Panaršius (ją pasiekus per teksto apačioje minimą kategoriją), galima rasti daugiau ieškomos susijusios informacijos.
+
+Be to tokie įrankiai, kaip „susiję straipsniai“ bei „susiję keitimai“, straipsnio istorijoje minimi autoriai bei jų sukurti straipsniai (įrankis „naudotojo indėlis“) gali atvesti prie ieškomos tematikos šaltinių ir kitų nuorodų. Net jeigu straipsnis dar nėra sukurtas, pasinaudojus funkcija „susiję straipsniai“, galima atrasti su ieškomo straipsnio tematika susijusią medžiagą.
+
+Spausdintinėse enciklopedijose nėra tiek daug nuorodų, dažniausiai apsiribojama literatūros sąrašu arba terminais, esančiais kituose tomuose; be to pasiekti tokią medžiagą (vien dėl fizinių kliūčių) nėra paprasta: reikia ieškoti bibliotekoje, gauti ir vartyti kitas knygas, kurios ne kiekvienam yra lengvai pasiekiamos kaip elektronine forma pateikiama informacija, esanti Vikipedijoje.
+
+Prieinamumas
+Vikipedija yra laisvai prieinama iš bet kurio kompiuterio, turinčio interneto prieigą. Online versija yra nuolat atnaujinama, todėl ja naudotis yra geriausia.
+
+Neturint interneto prieigos, taip pat yra galimybių naudotis elektronine enciklopedija offline. Komercinės enciklopedijos platinamos CD, DVD diskuose, už kuriuos reikia mokėti nemažus pinigus. Vikipedijos atveju – yra galimybių keleto spustelėjimų dėka išsisaugoti aktualiausią Laisvosios enciklopedijos versiją (pavyzdžiui, anglų, vokiečių, artimiausiu metu – ir lietuvių kalba).
+
+Daugiakalbystė
+
+VIkipedijos portalas http://www.wikipedia.org, kuriame vaizduojamos didžiausios Vikipedijos
+Vikipedijoje tą pačią informaciją galima rasti keliomis kalbomis. Tai kartu ir savotiškas žinių patikimumo garantas, kadangi galima palyginti pateiktą informaciją įvairiose Vikipedijose, sužinoti atitinkamų terminų atitikmenis užsienio kalba. Tokiu atveju Atviroji enciklopedija gali būti pagrįstai vadinama enciklopediniu žodynu, kadangi be dalykinės informacijos joje pateikiama ir nemažai atitinkamos srities sąvokų, padedančių orientuotis žinių okeane.
+
+Rašyba užsienio kalbomis
+Vikipedijoje pateikiami vietovardžiai, pavardės, vardai (tikriniai daiktavardžiai) originalo kalba. Nežinant kokios nors sostinės (pvz., Paryžiaus) pavadinimo kuria nors kalba (pvz., prancūzų), jį galima rasti, pasinaudojus tarpkalbinėmis nuorodomis (pvz., prancūziškoje Vikipedijoje pateikiama Paris straipsnio versija, greta jos yra aprašymas ar susijusi medžiaga, surandama, spaudžiant įrankius „susiję straipsniai“, esančius kairėje puslapio pusėje).
+
+Galimybė skaityti kitomis kalbomis
+Elektroninė enciklopedijos forma leidžia nukopijuoti nesuprantamo kitakalbės Vikipedijos teksto dalį ir pasinaudoti internete esančiomis kompiuterinėmis vertimų programomis, kuriomis galima tą patį tekstą, interneto svetainę išversti į anglų, prancūzų, vokiečių, italų, ispanų, japonų kalbas. Pavyzdžiui, naudojantis Google pateikiamais įrankiais.
+
+Nuomonių įvairovė
+Vikipedija neatstovauja kuriai nors žmonių grupei. Joje siekiama pateikti įvairiapusišką informaciją, kilus ginčams – argumentuotas nuomones. Tai leidžia apžvelgti įvairias temas daug plačiau bei giliau, negu įprastinėse enciklopedijose.
+
+Nemokamas naudojimasis
+Naudojimasis elektronine Vikipedija – nemokamas. Straipsnius galima kopijuoti, naudoti juose pateikiamą medžiagą – tekstą, statistiką, iliustracijas, nuotraukas, garso ir vaizdo įrašus. Visi enciklopedijos autoriai rašo tekstus, įkelia nuotraukas ir iliustracijas už dyką. Tokius kūrinius galima naudoti, dauginti ir keisti be jokių apribojimų – tiek asmeniniais, tiek ir komerciniais tikslais. Vienintelis reikalavimas tiems, kurie naudoja informaciją – jie privalo paskelbti autoriaus vardą. Be to, pakeistą medžiagą taip pat privaloma skelbti nemokamai.
+
+Naudojimosi sąlygas nustato Creative Commons licencija, todėl būtina laikytis joje numatytų sąlygų, nes joje apibrėžiamos neatlygintino naudojimo taisyklės. Tradicines enciklopedijas nemokamai galima paskaityti nebent bibliotekoje ar pas pažįstamus, o norint jas įsigyti nuolatiniam naudojimui, tenka mokėti nemažus pinigus.
+
+Norint naudoti komercinės enciklopedijos straipsnius, juos leidžiama tik cituoti. Jų atkūrimas ar paskelbimas be autoriaus sutikimo negalimas. Gavus leidimą, straipsnių naudojimasis paprastai turi būti atlyginamas honoraru – užmokesčiu enciklopedijos autoriams, leidėjams. Vikipedijos atveju – naudojimasis enciklopedija yra nemokamas, jei nepažeidžiamos jos licencijos sąlygos.
+
+Dalyviai
+Neregistruoti dalyviai neturi savo vardų. Tokie lankytojai gali kurti arba keisti straipsnius, dalyvauti diskusijose. Vietoje vardo yra įrašomas jų kompiuterio IP adresas (pvz., 44.111.333.12).
+Registruoti dalyviai kuria bei redaguoja straipsnius, pasirašydami pasirinktu vardu arba slapyvardžiu. Praėjus 4 dienoms nuo registracijos jie tampa patvirtintais dalyviais.
+Balsavimo teisę turintys dalyviai – sukūrę daugiau negu 200 straipsnių arba išbuvę registruotais vartotojais daugiau kaip 2 mėnesius.
+Administratoriai gali trinti bei atkurti ištrintus puslapius, juos užrakinti ar atrakinti, blokuoti kitus dalyvius, paslėpti vandalizuotas puslapių versijas.
+Biurokratai gali keisti naudotojų statusą ir vardus.
+Ūkvedžiai („stiuardai“) turi visas teises keisti svetainės išvaizdą, dalyvių statusą. Sprendžia problemas, kurių nesugeba suvaldyti kiti dalyviai. Dalyvių iš Lietuvos tarp ūkvedžių nėra.
+Prisijungimo kontrolieriai tikrina, ar tas pats dalyvis nebando prie Vikipedijos prisijungti skirtingais vardais.
+Autoriai
+Kiekvienas, užsukęs į svetainę, gali pradėti kurti naują straipsnį arba pataisyti, redaguoti kitų sukurtus tekstus. Dažniausiai, norint tai daryti, nereikia registruotis. Pataisius įrašą, senoji straipsnio versija niekur nedingsta – ji išsaugoma tam, kad reikalui esant, tekstą būtų galima sugrąžinti. Tokiu būdu Vikipedija apsaugoma nuo „vandalų“ bandymų sunaikinti kitų žmonių sukurtus įrašus. Geriausiu atveju piktavaliai gali sukurti tik dar vieną straipsnio versiją. Teisingą straipsnio variantą gali sugrąžinti bet kuris chuliganizmo atvejį pastebėjęs lankytojas.
+
+Enciklopedijoje savo straipsnius yra paskelbę keli šimtai tūkstančių žmonių. Vikipedija skaičiuoja tik svetainėje prisiregistravusius autorius. Tačiau daugelį straipsnių galima keisti arba kurti net neprisiregistravus. Tokių bevardžių kūrėjų skaičiaus nežino niekas.
+
+Vikipedijos kritika
+Vikipedijos kritikai teigia, esą ji pasmerkta nesėkmei. Dažniausiai yra minimos klaidos ir netikslumai, sielvartaujama dėl vandalizmų, politinio ir tautinio korektiškumo, neutralumo, nuomonių konfliktų bei jų gausos, dažno straipsnių keitimo.
+
+Klaidos ir netikslumai
+Žiniasklaidoje pasirodė pranešimų, kuriuose abejojama dėl pateikiamos informacijos išsamumo ir tikslumo, kokybės, autorių diletantiškumo, kaltinama dėl šmeižto, įžeidimo, autorių teisių pažeidimų. Atsižvelgus į projekto gyvavimo laikotarpį ir dalyvių kvalifikaciją, Vikipedijai bei kitiems vikiprojektams savo globalumu, universalumu ir rezultatyvumu negali prilygti kiti projektai, kurių vien finansavimo klausimas neapsieina be viešojo sektoriaus pagalbos bei reklamos, investicijų iš privataus sektoriaus.
+
+Vikipedijos kokybė nuolat gerinama. Skatinami produktyviai ir kokybiškai dirbantys autoriai, skelbiami pavyzdinių straipsnių rašymo konkursai, jų autoriai apdovanojami, nuolat analizuojama ir plečiama rinktinių straipsnių kategorija. Straipsniai kuriami pagal standartus ir pripažintus šablonus, jie apjungiami į portalus, kuriamos atskiros Vikipedijos naudotojų grupės, atsakingos už tam tikros kategorijos straipsnių kokybę.
+
+Vandalizmai
+Kai kurie interneto naudotojai tyčia gadina Vikipedijos straipsnius, trina jų turinį, iškreipia informaciją. Gana ilgą laiką buvo manyta, kad dėl to projektas žlugs. Tačiau metai parodė, kad žmonių, vertinančių žinias ir svetimą darbą yra daug kartų daugiau, negu vandalų, todėl ištrinti ar sugadinti straipsniai greitai atstatomi, vandalų padaroma žala nėra esminė. Be to kuriami įvairūs savisaugos mechanizmai. Kai kuriose Vikipedijose įvesta naudotojų registracija, nauji bendruomenės nariai kurį laiką negali taisyti ar trinti didelės apimties straipsnių, pavyzdiniai straipsniai yra „užrakinami“, taip pat palaikomi ryšiai su interneto incidentų tyrimų tarnybomis (tokiomis kaip CERT).
+
+Profanacija
+Teigiama, esą Vikipedija negali pateikti teisingos informacijos, kai daugumos nuomonė neatitinka objektyvių (mokslo) žinių: neišsilavinusi dauguma gali nepripažinti mokslo autoritetų ir skleisti neteisingą informaciją. Praktika rodo, kad tokių atvejų būna mažai, nes pagrįsta nuomonė ir argumentai, faktai leidžia pasiekti tinkamą kompromisą, moksliškai pateikiant požiūrį į vieną ar kitą tikrovės reiškinį. Laisvąją enciklopediją kuria šimtai tūkstančių žmonių. Tarp kuriančių ir taisančių yra nemažai specialistų, mokslininkų bei kitų žmonių, puikiai išmanančių tam tikras sritis. Todėl nuogąstavimai dėl visiško viki diletantiškumo nėra pagrįsti.
+
+Politinis ir tautinis korektiškumas, neutralumas
+Teigiama, esą Vikipedija yra neatspari mažumų (seksualinių, religinių, tautinių ar kitų) kritikai, teigiančiai, kad vieni ar kiti faktai turi būti pateikiami specifiniu būdu arba iš viso nepublikuojami. Praktika rodo, kad tokie atvejai irgi pasitaiko nedažnai, be to, jie būdingesni komerciniams leidiniams.
+
+Nuomonių konfliktai
+Kaip vienas iš trūkumų pateikiamas faktas, kad Vikipedijoje neretai kyla ginčų dėl vieno ar kito straipsnio teisingumo bei dėl skirtingos faktų interpretacijos. Tačiau tokie atvejai leidžia sukaupti išsamesnę, neretai – ir objektyvesnę informaciją abejotinais klausimais. Skaitytojas neverčiamas aklai priimti kategorišką poziciją, kviečiamas įvertinti pateiktą medžiagą bei panagrinėti straipsnių aptarimuose pateikiamą medžiagą ir diskusijas.
