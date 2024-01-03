@@ -59,7 +59,7 @@ int main() {
         string tikrinamas;
         while (iss >> tikrinamas) {
             string zodis = zodziu_tvarkymas(tikrinamas);
-            if (zodzio_dalis(zodis)==true) zodziai.push_back(zodis);
+            if (zodzio_dalis(zodis)) zodziai.push_back(zodis);
             if (!zodis.empty()) {
                 kiekis[zodis]++;
                 nuorodos[zodis].push_back(nr);
