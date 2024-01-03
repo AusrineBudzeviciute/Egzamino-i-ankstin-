@@ -34,6 +34,11 @@ vector<string> URLs_gavimas(const string& tekstas)
     return urls;
 }
 
+// Funkcija, randanti zodzius su 'ape'
+bool zodzio_dalis(string zodis) {
+    return (zodis.find("ape") != string::npos);
+}
+
 int main() {
 
     //ZODZIU IR JU SKAICIU RADIMAS
@@ -45,6 +50,7 @@ int main() {
     // Pasikartojusiu zodziu skaiciavimas
     map<string, int> kiekis;
     map<string, vector<int>> nuorodos;
+    vector<string> zodziai;
     string eil;
     int nr = 0;
     while (getline(failas, eil)) {
@@ -53,6 +59,7 @@ int main() {
         string tikrinamas;
         while (iss >> tikrinamas) {
             string zodis = zodziu_tvarkymas(tikrinamas);
+            if (zodzio_dalis(zodis)==true) zodziai.push_back(zodis);
             if (!zodis.empty()) {
                 kiekis[zodis]++;
                 nuorodos[zodis].push_back(nr);
@@ -81,6 +88,11 @@ int main() {
     }
     rezultatai.close();
 
+    ofstream outputFile("gauti_zodziai.txt");
+    for (const auto& z : zodziai) {
+        outputFile << z << std::endl;
+    }
+    outputFile.close();
 
     // URL GAVIMAS
     ifstream failas2("testinisURL.txt");
@@ -105,7 +117,6 @@ int main() {
         rezultataiURL << "URL #" << i + 1 << ": " << urls[i] << endl;
     }
     rezultataiURL.close();
-
 
     cout << "Rezultatai isvesti faile 'rezultatai.txt'. ir 'rezultataiURL.txt'\n" << endl;
     system("pause");
